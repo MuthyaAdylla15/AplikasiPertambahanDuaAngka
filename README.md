@@ -9,7 +9,7 @@ Aplikasi Pertambahan Dua Angka adalah sebuah aplikasi berbasis Java yang membant
 - *ecepatan Hasil: Hasil penjumlahan langsung ditampilkan setelah kedua angka dimasukkan, memberikan pengalaman pengguna yang cepat dan efisien.
 
 # Pembuat Aplikasi
-Muthya Adylla - 2210010476 - Latihan 2
+Muthya Adylla - 2210010476 - Latihan 1
 
 # Fitur
 
